@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning for all people</title>
+            <author>Parnell, James, 1637?-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56442</idno>
+            <idno type="STC">Wing P540</idno>
+            <idno type="STC">ESTC R31755</idno>
+            <idno type="EEBO-CITATION">12252937</idno>
+            <idno type="OCLC">ocm 12252937</idno>
+            <idno type="VID">57172</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56442)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57172)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1510:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning for all people</title>
+                  <author>Parnell, James, 1637?-1656.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: James Parnell.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Apocalyptic literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:57172:1"/>
+            <pb facs="tcp:57172:1"/>
+            <head>A WARNING for all People.</head>
+            <p>ALl People Repent and turn to the Lord from the evil of your doings, for the day of the Lord is at hand where<g ref="char:EOLhyphen"/>in the Lord will judge the world, and give to every one according to their deeds, whether they be good or<note place="margin">Jude <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1. 5</note> evil, yea he is coming with ten thouſand of his Angels to be avenged of the heathen, and them that know him not; now all that lives in ſin and filthineſs it appears you know him not, for if you did, you durſt not live in your Luſts, heaping up wrath againſt the day of wrath, wherein the Lord will appear as a con<g ref="char:EOLhyphen"/>ſuming fire againſt all ungodlineſs, <hi>Rom.</hi> 1. 18.</p>
+            <p>God is againſt you diſſembling Profeſſors, who adorn the out<g ref="char:EOLhyphen"/>ſide, ſerve God in notions, words and out-ſide forms, but the heart is not upright with God, you are in the earth, in your co<g ref="char:EOLhyphen"/>vetouſneſſe which is Idolatry, and the Lord abhors the out-ſide worſhip, when the heart is not anſwerable, and calls ſuch <hi>whited walls,</hi> and <hi>painted ſepulchres, hypocrites, ſerpents, generation of vipers,</hi> and the <hi>wo</hi> is to ſuch, <hi>how can you eſcape the damnation of hell?</hi> Mat. 23.</p>
+            <p>God is againſt you proud luſtful ones, who makes it your greateſt care to deck your ſelves in proud attire, inventing new wayes and faſhions to make your ſelves glorious in the ſight of men, that they may worſhip you and honour you, but conſider not that you are but duſt, and God will lay your honour in the duſt, for he is Riſen to whom all worſhip and honour is due, and he will bring down your haughtineſſe and your pride, and<note place="margin">Ezek 3<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 16,</note> will exalt the humble and meek, and will ſeek that which was loſt, but will deſtroy the fat with judgement.</p>
+            <p>Repent ye lofty ones and turn to the Lord, and humble your ſelves before him, that you may be hid in the day of his fierce wrath, leaſt he take you away and there be none to deliver, for
+<pb n="2" facs="tcp:57172:2"/>
+the day of the Lord will burn as an oven, and they that are proud and they that do wickedly will be as ſtubble, &amp; it will leave them neither root nor branch, <hi>Mal.</hi> 4. 1.</p>
+            <p>God is againſt you, drunkards, who make it your trade to pour in ſtrong drink, abuſing the creature which God hath given to be uſed moderately, for the health and not for the Luſt, therein you ſhew your ſelves worſe then beaſts, you ſhould be reaſonable Crea<g ref="char:EOLhyphen"/>tures, but your horſes may teach you, who will not drink but when they are dry, nor more then ſatisfies their thirſt; <hi>wo unto</hi>
+               <note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 5. 22. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 5. 11.</note> 
+               <hi>you that are mighty to drink wine, and men of ſtrength to mingle ſtrong drink; wo unto you that riſe up early that you may follow ſtrong drink, and continue until night till you be enflamed,</hi> the wo is upon you that puts the cup to your neighbours mouth to make him drink, that his nakedneſſe may appear, and ſhameful ſpewing cover him, and this is your glory, which is your ſhame, and you tell it to others, you ſhew your ſelves to be of the generation of <hi>Ham,</hi> the Father<note place="margin">
+                  <hi>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>n.</hi> 2. 23. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> of <hi>Canaan,</hi> who was accurſed for ſuch practiſes, and the curſe is upon you while you live here; Therefore Repent and live no longer in theſe abominations and filthineſſe, your healths are abomination unto the Lord, you are ignorant of his ſaving health, the wants of the poor cries out againſt your wilful pra<g ref="char:EOLhyphen"/>ctiſes which is your condemnation.</p>
+            <p>God is againſt you ſwearers, who makes it your practiſe to take the Name of God in vain, and lives in open breach of Gods commandments, who are not aſhamed to prophane the Name of God in open ſtreets and houſes where you come, yea becauſe of<note place="margin">Jer. 23. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>0.</note> this the Land mourns; Repent, repent, the Curſe is towards you prophane ones, you that regards not the Commands of Chriſt, who ſaith <hi>ſwear not at all, but let your yea be yea, and your nay be nay, for whatſoever is more cometh of evil,</hi> how will you ſtand<note place="margin">Mat. 5. 34. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 37.</note> before him at the day of judgement whom you now ſo openly contemn; Oh Repent betime, the day is at hand when it will be too late, wherein you will wiſh you had never been born.</p>
+            <p>God is againſt you Liars, who makes a trade and gain of Ly<g ref="char:EOLhyphen"/>ing and diſſembling for earthly profit to make your ſelves rich, and to cover over your deceit with Lying and diſſembling, and<note place="margin">Jer. 5. 26, <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>7.</note> ſo your houſes are full of deceit, and you ſell your birth-right for a meſſe of pottage, as <hi>Eſau</hi> did who was hated of God, and here you live in the fall, Curſed from God in the firſt nature, in Lying, and cheating and diſſembling, ſtriving to enſnare and
+<pb n="3" facs="tcp:57172:2"/>
+oppreſſe one another in bargaining by your lying and diſſem<g ref="char:EOLhyphen"/>bling, but the Inviſible God who knows the ſecrets of your hearts, whom you think not of is coming to reward every one of you according to his deeds, every one ſhall be judged out of his<note place="margin">Rev. 2. 1<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Rom. 2. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> own mouth, and God found a juſt God; Therefore Repent while it is called to day, and to the Light of God in your Con<g ref="char:EOLhyphen"/>ſciences turn your mindes, by it to be guided, and it will lead your hearts out of the earth and earthly things, from coveting the earth, and will lead you to deal juſtly and honeſtly in ſingle<g ref="char:EOLhyphen"/>neſſe of heart to ſpeak the Truth one to another, and to let your yea be yea, and your nay, nay, and to do as ye would be done by, and this is honeſt and godly, according to the Light of God in every mans Conſcience; now prize your time while you have<note place="margin">1 <hi>Theſ. 5. <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> J<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h. 3. 19. 20. Pro.</hi> 21. 8.</note> it, for the day of the Lord is as a thief in the night to all the chil<g ref="char:EOLhyphen"/>dren of darkneſſe, to the Light of God in your Conſciences I ſpeak, which if you love it will be your Teacher, but your con<g ref="char:EOLhyphen"/>demnation it is if you act contrary to it; <hi>for he that loves and makes a l ye is for the Lake that burneth.</hi>
+            </p>
+            <p>God is againſt you ſcorners who takes delight in ſcorning your brethren, you ſhew your folly to all men, you that ſits in the ſeat of the ſcornful, you that raiſes falſe reports againſt the ſim<g ref="char:EOLhyphen"/>ple, and tells them to make your ſelves and your companions<note place="margin">
+                  <hi>Luke 6. 2<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Iſa. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8. 2<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Pro.</hi> 1. 22.</note> to laugh, your laughter ſhall be turned into mourning, <hi>yea wo to them that laugh now, for they ſhall mourn,</hi> ye forget your ſelves what you are, take heed, be not mockers, leaſt your bands be made ſtrong, and when you cry there be none to deliver; Re<g ref="char:EOLhyphen"/>pent, <hi>how long will yee ſcorners take delight in ſcorning, and fools hate knowledge?</hi> Ceaſe from ſports and paſtime ye wanton ones, ma<g ref="char:EOLhyphen"/>king your ſelves merry in your ſin, your Idle talking and fooliſh jeſting, your unclean filthy words are abomination to the Lord; and every idle word muſt be accounted for, your revelling, and Rioting, Carding and dicing, and all your invented ſports,<note place="margin">1 Cor. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> ſitting down to eat and drink, and riſing up to play, which<note place="margin">Col. 3. 6. Pro. 16.</note> is Idolatry, and the wrath of God is againſt ſuch practiſes, for man was not made to fulfill his own luſts, but to ſerve the living God, who made all things for himſelfe, and the wicked for the day of judgement; Repent and take heed, and ſearch the Scrip<g ref="char:EOLhyphen"/>tures,<note place="margin">Gal. 5. 2<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Rom. 8. Hab. 1. 1<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> and ſee if the Saints uſed any ſuch practices, or ſpent their time after that manner, but had the fleſh crucified with the affections and luſts thereof, for he who lives after the fleſh, can<g ref="char:EOLhyphen"/>not
+<pb n="4" facs="tcp:57172:3"/>
+pleaſe God, for God is of purer eyes then to behold iniqui<g ref="char:EOLhyphen"/>ty, and nothing that defiles muſt enter into his Kingdom, <hi>Rev.</hi> 21. 27.</p>
+            <p>God is againſt you blind guides, you Prieſts of England, who are the Teachers and leaders of this People, who live in this filthi<g ref="char:EOLhyphen"/>neſs and ungodly practices, without the fear of God, going on the way of the Heathen who know not God, and yet you pro<g ref="char:EOLhyphen"/>feſſe your ſelves the Miniſters of Chriſt, and works no better re<g ref="char:EOLhyphen"/>formation in them, yet are maintained by them, and are their leaders and examples in all this filthineſs, flattering of them, and leading them in blindneſs, crying peace to them, becauſe they put into your mouthes, and ſo daubs them up with untem<g ref="char:EOLhyphen"/>pered morter, telling them they are Chriſtians, and of the flock<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>h. 3. 5. Ezek. 22. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Pet. 2. 3.</note> of Chriſt, and ſo through covetouſneſs, with fained words makes marchandiſe of them; but your judgement of a longtime lingereth not, nor your damnation ſlumbereth not; all you blind guides who lead the People in blindneſs, in their ſins and corruptions, every one their hearts adulterated from God, com<g ref="char:EOLhyphen"/>mitting fornication with other lovers, and this you ſee and doth not regard, but ſeeks for the fleece, and feeds with the fat, and clothes with the wooll, and maks a prey on the ſheep, and<note place="margin">Ezek. 34. Jer. 23. 32 Jer. 6, 15.</note> cauſeth them to erre by your lies and lightneſs, and calleth your ſelves the Miniſters of Chriſt, and are not aſhamed, neither do you bluſh, Therefore you ſhall fall amongſt them that fall in the day that I viſit you ſaith the Lord.</p>
+            <closer>
+               <signed>James Parnell.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the ſigne of the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1660.</p>
+            <pb facs="tcp:57172:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
